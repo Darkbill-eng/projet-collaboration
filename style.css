@@ -1,4 +1,6 @@
+/* Style général du corps de page */
 body {
+<<<<<<< HEAD
         font-family: Arial, sans-serif;
         background-color: #f5f5f5;
         margin: 0;
@@ -19,3 +21,35 @@ h1 {
 p {
         font-size: 1.1em;
     
+=======
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style du header */
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style du contenu principal */
+main {
+    padding: 20px;
+}
+
+/* Titres */
+h1 {
+    color: #3333ff;
+    text-align: center;
+    margin-top: 0;
+}
+
+/* Paragraphes */
+p {
+    font-size: 1.1em;
+}
+>>>>>>> 6d751de (Résolution du conflit sur style.css)
